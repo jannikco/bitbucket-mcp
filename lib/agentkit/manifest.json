@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "product": "pipmcp",
+  "credential": "PIPMCP_API_KEY",
+  "skills": [
+    {
+      "name": "pipmcp-bitbucket",
+      "description": "Connect AI agents to Bitbucket using one PipMCP API key and actual hosted tool discovery."
+    }
+  ],
+  "files": {
+    "skills/pipmcp-bitbucket/SKILL.md": "f2b996f6c2557d99784fdbfda9247a4d6336135ee914f34cdfcb40d04caed482"
+  }
+}
